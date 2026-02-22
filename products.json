@@ -28,27 +28,27 @@
   ],
   "aggregations": {
     "electronics": {
-      "name": "electronics",
+      "category": "electronics",
       "count": 6,
       "inventoryValue": 132021.27
     },
     "clothing": {
-      "name": "clothing",
+      "category": "clothing",
       "count": 6,
       "inventoryValue": 190878.57
     },
     "home": {
-      "name": "home",
+      "category": "home",
       "count": 3,
       "inventoryValue": 32284.99
     },
     "books": {
-      "name": "books",
+      "category": "books",
       "count": 4,
       "inventoryValue": 71843.97
     },
     "sports": {
-      "name": "sports",
+      "category": "sports",
       "count": 2,
       "inventoryValue": 11527.24
     }
