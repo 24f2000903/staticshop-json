@@ -27,9 +27,25 @@
     { "id": "prod-fc2307c7-021", "name": "Pro Item 21", "category": "clothing", "price": 204.69, "stock": 128, "rating": 1.4 }
   ],
   "aggregations": {
+    "electronics": {
+      "count": 6,
+      "inventoryValue": 304.45*15 + 218.31*74 + 106.26*76 + 360.66*71 + 183.01*126 + 314.1*177
+    },
+    "clothing": {
+      "count": 6,
+      "inventoryValue": 437.89*33 + 231.03*165 + 217.45*182 + 409.26*158 + 403.59*20 + 204.69*128
+    },
     "home": {
       "count": 3,
       "inventoryValue": 32284.99
+    },
+    "books": {
+      "count": 4,
+      "inventoryValue": 230.11*167 + 147.44*22 + 386.58*45 + 335.89*38
+    },
+    "sports": {
+      "count": 2,
+      "inventoryValue": 39.96*53 + 136.44*69
     }
   }
 }
