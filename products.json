@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "email": "24f2000903@ds.study.iitm.ac.in",
+    "version": "fc2307c7"
+  },
+  "products": [
+    {
+      "id": "prod-fc2307c7-001",
+      "name": "Standard Item 1",
+      "category": "electronics",
+      "price": 304.45,
+      "stock": 15,
+      "rating": 2.5
+    }
+  ],
+  "aggregations": {
+    "home": {
+      "count": 3,
+      "inventoryValue": 32284.99
+    }
+  }
+}
